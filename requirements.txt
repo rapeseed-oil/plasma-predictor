@@ -1,4 +1,7 @@
-streamlit
-numpy 
+numpy
 pandas
 scikit-learn
+lightgbm
+odeint
+matplotlib.pyplot
+streamlit
