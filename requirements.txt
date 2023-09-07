@@ -2,6 +2,6 @@ numpy
 pandas
 scikit-learn
 lightgbm
-odeint
-matplotlib.pyplot
 streamlit
+matplotlib.pyplot
+scipy
