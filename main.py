@@ -107,7 +107,7 @@ def model(y, t):
 
 # 時間ステップを設定する
 t0 = 0  # 初期時刻
-t_final = 24  # 最終時刻
+t_final = 8  # 最終時刻
 delta_t = 0.01 # Δt
 t = np.arange(t0, t_final, delta_t)
 
