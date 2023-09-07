@@ -3,5 +3,5 @@ pandas
 scikit-learn
 lightgbm
 streamlit
-matplotlib.pyplot
+matplotlib
 scipy
